@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1000",
+    "name": "Kaffeetasse",
+    "description": "Eine hochwertige Tasse zum trinken von Kaffee",
+    "price": 6.99,
+    "currency": "EUR",
+    "variants": [
+      {
+        "variantId": "1011",
+        "color": "Rot",
+        "size": "S"
+      },
+      {
+        "variantId": "1023",
+        "color": "Blau",
+        "size": "L"
+      }
+    ],
+    "marketingText": "Perfekt für alle, die ihren Kaffee mit Stil trinken !",
+    "images": [
+      "https://www.dein-pen.de/media/image/thumbnail/margot_rot_1_1200x1000.jpg",
+      "https://www.dein-pen.de/media/image/thumbnail/margot_blau_1_1200x1000.jpg"
+    ]
+  },
+  {
+    "id": "2000",
+    "name": "Aktenordner",
+    "description": "Ein Ordner für alle Zwecke",
+    "price": 4.99,
+    "currency": "EUR",
+    "variants": [
+      {
+        "variantId": "2031",
+        "color": "Schwarz",
+        "size": "S"
+      },
+      {
+        "variantId": "2042",
+        "color": "Weiß",
+        "size": "M"
+      }
+    ],
+    "marketingText": "Ideal für jede Form von Unterlagen.",
+    "images": [
+      "https://m.media-amazon.com/images/I/71uRCrRRruL._AC_UF894,1000_QL80_.jpg",
+      "https://media.schaefer-shop.de/is/image/schaefershop/shop500/leitz-ordner-1010-din-a4-rueckenbreite-80-mm-rot-img_SI_183901_A_cut"
+    ]
+  },
+  {
+    "id": "3000",
+    "name": "Kugelschreiber",
+    "description": "Ein hochwertiger Stift für Ihr Büro",
+    "price": 14.99,
+    "currency": "EUR",
+    "variants": [
+      {
+        "variantId": "3032",
+        "color": "Schwarz",
+        "size": "M"
+      },
+      {
+        "variantId": "3022",
+        "color": "Blau",
+        "size": "M"
+      }
+    ],
+    "marketingText": "DER Stift.",
+    "images": [
+      "https://www.dein-pen.de/media/image/thumbnail/img-uma-kugelschreiber-0-9412_blau_1200x1000.jpg",
+      "https://testwp.dekom-medical.de/wp-content/uploads/2023/07/metall-kugelschreiber-mailand-schwarz_915804_1.jpg"
+    ]
+  }
+]
